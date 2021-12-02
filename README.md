@@ -1,5 +1,5 @@
 # 3x+1
- Is there any way to find something other than 1?
+Is there any way to find something other than 1?
 
 ## Where all this came from?
 I know what you will think about, what's all that about?
@@ -12,7 +12,7 @@ It says:
 >if your number is even you should divide it by 2. You should go on applying this rule until it becomes 1...
 >They tried to find out is there a number that goes to infinite... And 2⁶⁸ quantity of numbers have tried by them...**
 
-Then, I really wonder that *"Is there a way to find something other than 1?"* and I started this project for find out.
+Then, I really started wonder that *"Is there a way to find something other than 1?"* by that I started this project for find out.
 
 ## How can I use it?
 After downloading project², you should just **simply cilck *main.py*** and it will generate a **log** for you.
