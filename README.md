@@ -6,7 +6,7 @@ I know what you will think about, what's all that about?
 
 Let me explain.
 
-This is about a video¹ which my friend send me about a mathematical problem.
+This is about a [video¹](https://github.com/yahyaozsoy/3Xplus1#links) which my friend send me about a mathematical problem.
 It says: 
 >**First pick a number, if your number is odd you should multiply by 3 and add 1 but, 
 >if your number is even you should divide it by 2. You should go on applying this rule until it becomes 1...
@@ -15,7 +15,7 @@ It says:
 Then, I really started wonder that *"Is there a way to find something other than 1?"* by that I started this project for find out.
 
 ## How can I use it?
-After downloading project², you should just **simply cilck *main.py*** and it will generate a **log** for you.
+After downloading [project²](https://github.com/yahyaozsoy/3Xplus1#links), you should just **simply cilck *main.py*** and it will generate a **log** for you.
 When it closed you should click to the **.txt** file and open it and see what's the answer.
 
 ### If you found the answer of first question please contact with me
