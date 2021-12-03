@@ -6,7 +6,7 @@ I know what you will think about, what's all that about?
 
 Let me explain.
 
-This is about a [video¹](https://github.com/yahyaozsoy/3Xplus1#links) which my friend send me about a mathematical problem.
+This is about a [video¹](https://github.com/yahyaozsoy/3Xplus1#links) which my friend send me, about a mathematical problem.
 It says: 
 >**First pick a number, if your number is odd you should multiply by 3 and add 1 but, 
 >if your number is even you should divide it by 2. You should go on applying this rule until it becomes 1...
