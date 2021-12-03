@@ -21,7 +21,11 @@ When it closed you should click to the **.txt** file and open it and see what's 
 ### If you found the answer of first question please contact with me
 
 ## Links
-¹: https://fb.watch/9DvGNogCQw/
+1:
+
+https://fb.watch/9DvGNogCQw/
 
 
-²: ![image](https://user-images.githubusercontent.com/79515501/144473576-f1074543-fc55-4275-b8fe-8da26b71fef3.png)
+2:
+
+![image](https://user-images.githubusercontent.com/79515501/144473576-f1074543-fc55-4275-b8fe-8da26b71fef3.png)
