@@ -3,8 +3,10 @@ import sys
 import datetime ,time
 import os
 
-date = time.strftime("%a %b %Y %H.%M.%S")
-sys.stdout = open(f"{date}_log.txt", "w")
+currentDir = os.getcwd()
+date = time.strftime("%Y %b %a  %H.%M.%S")
+completeName = os.path.join(f'{currentDir}\\logs', f"{date}_log.txt")
+sys.stdout = open(completeName, "w")
 
 def findnum(girdi, sonuc):
     while sonuc != 1 and girdi != None:
