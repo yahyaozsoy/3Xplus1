@@ -15,8 +15,10 @@ It says:
 Then, I really started wonder that *"Is there a way to find something other than 1?"* by that I started this project for find out.
 
 ## How can I use it?
-After downloading [project²](https://github.com/yahyaozsoy/3Xplus1#links), you should just **simply cilck *main.py*** and it will generate a **log** for you.
-When it closed you should click to the **.txt** file and open it and see what's the answer.
+After downloading [project²](https://github.com/yahyaozsoy/3Xplus1#links) and [python](https://www.python.org/downloads/)(you can use every version is 3.6 and above), you should just **simply cilck *main.py*** and it will generate a **log** and a **chart** for you.
+When it closed you can click to the **.txt** file which is located in logs folder, to see the log.
+
+***Note:** If it doesn't start, you should open your Command Prompt and write `pip install numpy` and `pip install matplotlib` with that you can freely open the file.*
 
 ### If you found the answer of first question please contact with me
 
