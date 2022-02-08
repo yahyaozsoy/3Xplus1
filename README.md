@@ -30,4 +30,4 @@ https://fb.watch/9DvGNogCQw/
 
 2:
 
-![image](https://user-images.githubusercontent.com/79515501/144473576-f1074543-fc55-4275-b8fe-8da26b71fef3.png)
+![image](https://i.hizliresim.com/16hfybe.png)
